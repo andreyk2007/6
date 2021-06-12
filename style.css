@@ -1,0 +1,19 @@
+.body {
+margin: 0 auto;
+background-color: darkgreen;
+
+}
+.main-card {
+display: flex;
+justify-content: space-between;
+margin: 0 auto;
+width: 900px;
+background-color: brown;
+}
+img {
+width: 200px;
+height: 200px;
+}
+.card {
+width: 250px;
+}
